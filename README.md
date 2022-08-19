@@ -58,6 +58,13 @@
 
 </details>
 
+## chinese person edited 3854x2100.jpg
+<details>
+
+![chinese person edited 3854x2100.jpg](./chinese%20person%20edited%203854x2100.jpg)
+
+</details>
+
 ## colorful astronaut 2560x1440.jpg
 <details>
 
@@ -170,6 +177,13 @@
 
 </details>
 
+## girl monotone 1920x1080.jpg
+<details>
+
+![girl monotone 1920x1080.jpg](./girl%20monotone%201920x1080.jpg)
+
+</details>
+
 ## gnu linux 1920x1200.jpg
 <details>
 
@@ -223,6 +237,20 @@
 <details>
 
 ![linux2 3840x2160.png](./linux2%203840x2160.png)
+
+</details>
+
+## minimal cat 1920x1080 copy.png
+<details>
+
+![minimal cat 1920x1080 copy.png](./minimal%20cat%201920x1080%20copy.png)
+
+</details>
+
+## minimal cat 1920x1080 edited.png
+<details>
+
+![minimal cat 1920x1080 edited.png](./minimal%20cat%201920x1080%20edited.png)
 
 </details>
 
