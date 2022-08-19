@@ -107,6 +107,27 @@
 
 </details>
 
+## demon girl monotone 1920x1080.jpeg
+<details>
+
+![demon girl monotone 1920x1080.jpeg](./demon%20girl%20monotone%201920x1080.jpeg)
+
+</details>
+
+## doom 1440x900.png
+<details>
+
+![doom 1440x900.png](./doom%201440x900.png)
+
+</details>
+
+## doom 5654x2763.jpg
+<details>
+
+![doom 5654x2763.jpg](./doom%205654x2763.jpg)
+
+</details>
+
 ## dune from star wars 3840x2160.png
 <details>
 
@@ -240,17 +261,10 @@
 
 </details>
 
-## minimal cat 1920x1080 copy.png
+## minimal cat 1920x1080 monotone.png
 <details>
 
-![minimal cat 1920x1080 copy.png](./minimal%20cat%201920x1080%20copy.png)
-
-</details>
-
-## minimal cat 1920x1080 edited.png
-<details>
-
-![minimal cat 1920x1080 edited.png](./minimal%20cat%201920x1080%20edited.png)
+![minimal cat 1920x1080 monotone.png](./minimal%20cat%201920x1080%20monotone.png)
 
 </details>
 
@@ -335,6 +349,13 @@
 <details>
 
 ![synthwave 1440x900.jpeg](./synthwave%201440x900.jpeg)
+
+</details>
+
+## wave.png
+<details>
+
+![wave.png](./wave.png)
 
 </details>
 
