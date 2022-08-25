@@ -268,6 +268,13 @@
 
 </details>
 
+## lofi girl 2345x1286.png
+<details>
+
+![lofi girl 2345x1286.png](./lofi%20girl%202345x1286.png)
+
+</details>
+
 ## minimal cat 1920x1080 monotone.png
 <details>
 
