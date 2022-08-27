@@ -58,10 +58,10 @@
 
 </details>
 
-## chinese person edited 3854x2100.jpg
+## chinese person monotone 3854x2100.jpg
 <details>
 
-![chinese person edited 3854x2100.jpg](./chinese%20person%20edited%203854x2100.jpg)
+![chinese person monotone 3854x2100.jpg](./chinese%20person%20monotone%203854x2100.jpg)
 
 </details>
 
@@ -275,17 +275,17 @@
 
 </details>
 
-## minimal cat 1920x1080 monotone.png
-<details>
-
-![minimal cat 1920x1080 monotone.png](./minimal%20cat%201920x1080%20monotone.png)
-
-</details>
-
 ## minimal cat 1920x1080.png
 <details>
 
 ![minimal cat 1920x1080.png](./minimal%20cat%201920x1080.png)
+
+</details>
+
+## minimal cat monotone 1920x1080.png
+<details>
+
+![minimal cat monotone 1920x1080.png](./minimal%20cat%20monotone%201920x1080.png)
 
 </details>
 
@@ -349,6 +349,13 @@
 <details>
 
 ![pixel village 1920x1080.png](./pixel%20village%201920x1080.png)
+
+</details>
+
+## skelly 2732x1536.png
+<details>
+
+![skelly 2732x1536.png](./skelly%202732x1536.png)
 
 </details>
 
