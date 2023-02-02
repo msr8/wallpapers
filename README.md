@@ -247,13 +247,6 @@
 
 </details>
 
-## hornet transparent 1920x1080.png
-<details>
-
-![hornet transparent 1920x1080.png](./hornet%20transparent%201920x1080.png)
-
-</details>
-
 ## idk wtf is going on 2880x1800.jpg
 <details>
 
@@ -335,6 +328,13 @@
 <details>
 
 ![neon pattern 2560x1440.jpg](./neon%20pattern%202560x1440.jpg)
+
+</details>
+
+## neon planet.png
+<details>
+
+![neon planet.png](./neon%20planet.png)
 
 </details>
 
