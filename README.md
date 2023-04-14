@@ -30,6 +30,13 @@
 
 </details>
 
+## backpacker road walk 1920×1280.jpg
+<details>
+
+![backpacker road walk 1920×1280.jpg](./backpacker%20road%20walk%201920×1280.jpg)
+
+</details>
+
 ## batman 599x399.jpeg
 <details>
 
@@ -219,13 +226,6 @@
 
 </details>
 
-## happy cat 2566x1440.png
-<details>
-
-![happy cat 2566x1440.png](./happy%20cat%202566x1440.png)
-
-</details>
-
 ## hearts 3840x2160.png
 <details>
 
@@ -254,6 +254,41 @@
 
 </details>
 
+## kitty happy 2566x1440.png
+<details>
+
+![kitty happy 2566x1440.png](./kitty%20happy%202566x1440.png)
+
+</details>
+
+## kitty looking up at you (edited) 1920x1080.png
+<details>
+
+![kitty looking up at you (edited) 1920x1080.png](./kitty%20looking%20up%20at%20you%20(edited)%201920x1080.png)
+
+</details>
+
+## kitty looking up at you 1920x1080.png
+<details>
+
+![kitty looking up at you 1920x1080.png](./kitty%20looking%20up%20at%20you%201920x1080.png)
+
+</details>
+
+## kitty minimal 1920x1080.png
+<details>
+
+![kitty minimal 1920x1080.png](./kitty%20minimal%201920x1080.png)
+
+</details>
+
+## kitty minimal monotone 1920x1080.png
+<details>
+
+![kitty minimal monotone 1920x1080.png](./kitty%20minimal%20monotone%201920x1080.png)
+
+</details>
+
 ## linux 2560x1440.png
 <details>
 
@@ -272,20 +307,6 @@
 <details>
 
 ![lofi girl 2345x1286.png](./lofi%20girl%202345x1286.png)
-
-</details>
-
-## minimal cat 1920x1080.png
-<details>
-
-![minimal cat 1920x1080.png](./minimal%20cat%201920x1080.png)
-
-</details>
-
-## minimal cat monotone 1920x1080.png
-<details>
-
-![minimal cat monotone 1920x1080.png](./minimal%20cat%20monotone%201920x1080.png)
 
 </details>
 
@@ -370,6 +391,13 @@
 <details>
 
 ![smile pattern 10630x4724.png](./smile%20pattern%2010630x4724.png)
+
+</details>
+
+## staring into the woods 6656×3840.png
+<details>
+
+![staring into the woods 6656×3840.png](./staring%20into%20the%20woods%206656×3840.png)
 
 </details>
 
