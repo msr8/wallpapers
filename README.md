@@ -30,10 +30,10 @@
 
 </details>
 
-## backpacker road walk 1920×1280.jpg
+## backpacker road walk 1920x1280.jpg
 <details>
 
-![backpacker road walk 1920×1280.jpg](./backpacker%20road%20walk%201920×1280.jpg)
+![backpacker road walk 1920x1280.jpg](./backpacker%20road%20walk%201920x1280.jpg)
 
 </details>
 
