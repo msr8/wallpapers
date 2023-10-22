@@ -9,6 +9,13 @@
 
 </details>
 
+## anime church 3840x2160.jpg
+<details>
+
+![anime church 3840x2160.jpg](./anime%20church%203840x2160.jpg)
+
+</details>
+
 ## anime couple 2560x1080.png
 <details>
 
@@ -51,10 +58,10 @@
 
 </details>
 
-## chess war glory strategy.png
+## chess war glory strategy 1920x1080.png
 <details>
 
-![chess war glory strategy.png](./chess%20war%20glory%20strategy.png)
+![chess war glory strategy 1920x1080.png](./chess%20war%20glory%20strategy%201920x1080.png)
 
 </details>
 
@@ -177,6 +184,13 @@
 
 </details>
 
+## farcry villians 1920x1080.jpg
+<details>
+
+![farcry villians 1920x1080.jpg](./farcry%20villians%201920x1080.jpg)
+
+</details>
+
 ## flowers 2133x1200.jpg
 <details>
 
@@ -251,6 +265,34 @@
 <details>
 
 ![idk wtf is going on 2880x1800.jpg](./idk%20wtf%20is%20going%20on%202880x1800.jpg)
+
+</details>
+
+## jacktheripper 1440x900.png
+<details>
+
+![jacktheripper 1440x900.png](./jacktheripper%201440x900.png)
+
+</details>
+
+## joseph seed dlc 3840x2160.png
+<details>
+
+![joseph seed dlc 3840x2160.png](./joseph%20seed%20dlc%203840x2160.png)
+
+</details>
+
+## joseph seed in church 1200x675.jpg
+<details>
+
+![joseph seed in church 1200x675.jpg](./joseph%20seed%20in%20church%201200x675.jpg)
+
+</details>
+
+## joseph seed pink 1920x1080.jpg
+<details>
+
+![joseph seed pink 1920x1080.jpg](./joseph%20seed%20pink%201920x1080.jpg)
 
 </details>
 
@@ -352,10 +394,17 @@
 
 </details>
 
-## neon planet.png
+## neon planet 1338x846.png
 <details>
 
-![neon planet.png](./neon%20planet.png)
+![neon planet 1338x846.png](./neon%20planet%201338x846.png)
+
+</details>
+
+## neon sunrise 3840x2160.jpg
+<details>
+
+![neon sunrise 3840x2160.jpg](./neon%20sunrise%203840x2160.jpg)
 
 </details>
 
@@ -363,6 +412,13 @@
 <details>
 
 ![pacman 1920x1080.jpg](./pacman%201920x1080.jpg)
+
+</details>
+
+## pagan min 3840x2160.jpg
+<details>
+
+![pagan min 3840x2160.jpg](./pagan%20min%203840x2160.jpg)
 
 </details>
 
@@ -377,6 +433,20 @@
 <details>
 
 ![pixel village 1920x1080.png](./pixel%20village%201920x1080.png)
+
+</details>
+
+## purple planet atmosphere 1920x1080.jpg
+<details>
+
+![purple planet atmosphere 1920x1080.jpg](./purple%20planet%20atmosphere%201920x1080.jpg)
+
+</details>
+
+## pyro hunt down the freeman 1440x810.png
+<details>
+
+![pyro hunt down the freeman 1440x810.png](./pyro%20hunt%20down%20the%20freeman%201440x810.png)
 
 </details>
 
@@ -408,10 +478,45 @@
 
 </details>
 
-## wave.png
+## synthwave drive 3840x2160.jpg
 <details>
 
-![wave.png](./wave.png)
+![synthwave drive 3840x2160.jpg](./synthwave%20drive%203840x2160.jpg)
+
+</details>
+
+## the continental blue city 1440x600.png
+<details>
+
+![the continental blue city 1440x600.png](./the%20continental%20blue%20city%201440x600.png)
+
+</details>
+
+## the continental end kill 1440x600.png
+<details>
+
+![the continental end kill 1440x600.png](./the%20continental%20end%20kill%201440x600.png)
+
+</details>
+
+## titanfall 3940x2160.png
+<details>
+
+![titanfall 3940x2160.png](./titanfall%203940x2160.png)
+
+</details>
+
+## vaas 3840x2160.jpg
+<details>
+
+![vaas 3840x2160.jpg](./vaas%203840x2160.jpg)
+
+</details>
+
+## wave 3840x2160.png
+<details>
+
+![wave 3840x2160.png](./wave%203840x2160.png)
 
 </details>
 
@@ -419,6 +524,13 @@
 <details>
 
 ![web 1490x725.png](./web%201490x725.png)
+
+</details>
+
+## winter train 3840x2160.jpg
+<details>
+
+![winter train 3840x2160.jpg](./winter%20train%203840x2160.jpg)
 
 </details>
 
