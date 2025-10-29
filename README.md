@@ -62,36 +62,38 @@
 | ![kitty happy 2566x1440](kitty%20happy%202566x1440.png) | ![kitty looking up at you (edited) 1920x1080](kitty%20looking%20up%20at%20you%20(edited)%201920x1080.png) |
 | kitty looking up at you 1920x1080 | kitty minimal 1920x1080 |
 | ![kitty looking up at you 1920x1080](kitty%20looking%20up%20at%20you%201920x1080.png) | ![kitty minimal 1920x1080](kitty%20minimal%201920x1080.png) |
-| kitty minimal monotone 1920x1080 | kurtzberg style blackhole 3840x2160 |
-| ![kitty minimal monotone 1920x1080](kitty%20minimal%20monotone%201920x1080.png) | ![kurtzberg style blackhole 3840x2160](kurtzberg%20style%20blackhole%203840x2160.png) |
-| limitedlife light of the server by u-kazehita 2367x3455 | linux 2560x1440 |
-| ![limitedlife light of the server by u-kazehita 2367x3455](limitedlife%20light%20of%20the%20server%20by%20u-kazehita%202367x3455.png) | ![linux 2560x1440](linux%202560x1440.png) |
-| linux2 3840x2160 | lofi girl 2345x1286 |
-| ![linux2 3840x2160](linux2%203840x2160.png) | ![lofi girl 2345x1286](lofi%20girl%202345x1286.png) |
-| minecraft nether aesthetic 3840x2160 | minimal black planet 7680x4320 |
-| ![minecraft nether aesthetic 3840x2160](minecraft%20nether%20aesthetic%203840x2160.jpg) | ![minimal black planet 7680x4320](minimal%20black%20planet%207680x4320.jpg) |
-| minimal planet 2560x1600 | minimal planets 2560x1600 |
-| ![minimal planet 2560x1600](minimal%20planet%202560x1600.png) | ![minimal planets 2560x1600](minimal%20planets%202560x1600.png) |
-| minimal planets brown 2560x1600 | minimalistic snowy blue hills 1600x900 |
-| ![minimal planets brown 2560x1600](minimal%20planets%20brown%202560x1600.png) | ![minimalistic snowy blue hills 1600x900](minimalistic%20snowy%20blue%20hills%201600x900.png) |
-| mrrobot fsociety 1920x1080 | neon boi 2880x1800 |
-| ![mrrobot fsociety 1920x1080](mrrobot%20fsociety%201920x1080.png) | ![neon boi 2880x1800](neon%20boi%202880x1800.jpg) |
-| neon pirates 3840x2160 | neon planet 1338x846 |
-| ![neon pirates 3840x2160](neon%20pirates%203840x2160.jpg) | ![neon planet 1338x846](neon%20planet%201338x846.png) |
-| neon sunrise 3840x2160 | pacman 1920x1080 |
-| ![neon sunrise 3840x2160](neon%20sunrise%203840x2160.jpg) | ![pacman 1920x1080](pacman%201920x1080.jpg) |
-| pagan min 3840x2160 | pickachu 2976x1464 |
-| ![pagan min 3840x2160](pagan%20min%203840x2160.jpg) | ![pickachu 2976x1464](pickachu%202976x1464.png) |
-| pinkish sunset 3840x2160 | piracy1 628x1116 |
-| ![pinkish sunset 3840x2160](pinkish%20sunset%203840x2160.jpg) | ![piracy1 628x1116](piracy1%20628x1116.jpg) |
-| piracy2 623x1108 | piracy3 628x1200 |
-| ![piracy2 623x1108](piracy2%20623x1108.jpg) | ![piracy3 628x1200](piracy3%20628x1200.jpg) |
-| pixel city 1920x1080 | pixel village 1920x1080 |
-| ![pixel city 1920x1080](pixel%20city%201920x1080.png) | ![pixel village 1920x1080](pixel%20village%201920x1080.png) |
-| purple planet atmosphere 1920x1080 | purple sunset 1500x500 |
-| ![purple planet atmosphere 1920x1080](purple%20planet%20atmosphere%201920x1080.jpg) | ![purple sunset 1500x500](purple%20sunset%201500x500.jpg) |
-| purple sunset 1920x1200 | pyro hunt down the freeman 1440x810 |
-| ![purple sunset 1920x1200](purple%20sunset%201920x1200.png) | ![pyro hunt down the freeman 1440x810](pyro%20hunt%20down%20the%20freeman%201440x810.png) |
+| kitty minimal monotone 1920x1080 | kitty waiting for something to happen? 736x1472 |
+| ![kitty minimal monotone 1920x1080](kitty%20minimal%20monotone%201920x1080.png) | ![kitty waiting for something to happen? 736x1472](kitty%20waiting%20for%20something%20to%20happen?%20736x1472.png) |
+| kurtzberg style blackhole 3840x2160 | limitedlife light of the server by u-kazehita 2367x3455 |
+| ![kurtzberg style blackhole 3840x2160](kurtzberg%20style%20blackhole%203840x2160.png) | ![limitedlife light of the server by u-kazehita 2367x3455](limitedlife%20light%20of%20the%20server%20by%20u-kazehita%202367x3455.png) |
+| linux 2560x1440 | linux2 3840x2160 |
+| ![linux 2560x1440](linux%202560x1440.png) | ![linux2 3840x2160](linux2%203840x2160.png) |
+| lofi girl 2345x1286 | minecraft nether aesthetic 3840x2160 |
+| ![lofi girl 2345x1286](lofi%20girl%202345x1286.png) | ![minecraft nether aesthetic 3840x2160](minecraft%20nether%20aesthetic%203840x2160.jpg) |
+| minimal black planet 7680x4320 | minimal planet 2560x1600 |
+| ![minimal black planet 7680x4320](minimal%20black%20planet%207680x4320.jpg) | ![minimal planet 2560x1600](minimal%20planet%202560x1600.png) |
+| minimal planets 2560x1600 | minimal planets brown 2560x1600 |
+| ![minimal planets 2560x1600](minimal%20planets%202560x1600.png) | ![minimal planets brown 2560x1600](minimal%20planets%20brown%202560x1600.png) |
+| minimalistic snowy blue hills 1600x900 | mrrobot fsociety 1920x1080 |
+| ![minimalistic snowy blue hills 1600x900](minimalistic%20snowy%20blue%20hills%201600x900.png) | ![mrrobot fsociety 1920x1080](mrrobot%20fsociety%201920x1080.png) |
+| neon boi 2880x1800 | neon pirates 3840x2160 |
+| ![neon boi 2880x1800](neon%20boi%202880x1800.jpg) | ![neon pirates 3840x2160](neon%20pirates%203840x2160.jpg) |
+| neon planet 1338x846 | neon sunrise 3840x2160 |
+| ![neon planet 1338x846](neon%20planet%201338x846.png) | ![neon sunrise 3840x2160](neon%20sunrise%203840x2160.jpg) |
+| pacman 1920x1080 | pagan min 3840x2160 |
+| ![pacman 1920x1080](pacman%201920x1080.jpg) | ![pagan min 3840x2160](pagan%20min%203840x2160.jpg) |
+| pickachu 2976x1464 | pinkish sunset 3840x2160 |
+| ![pickachu 2976x1464](pickachu%202976x1464.png) | ![pinkish sunset 3840x2160](pinkish%20sunset%203840x2160.jpg) |
+| piracy1 628x1116 | piracy2 623x1108 |
+| ![piracy1 628x1116](piracy1%20628x1116.jpg) | ![piracy2 623x1108](piracy2%20623x1108.jpg) |
+| piracy3 628x1200 | pixel city 1920x1080 |
+| ![piracy3 628x1200](piracy3%20628x1200.jpg) | ![pixel city 1920x1080](pixel%20city%201920x1080.png) |
+| pixel village 1920x1080 | purple planet atmosphere 1920x1080 |
+| ![pixel village 1920x1080](pixel%20village%201920x1080.png) | ![purple planet atmosphere 1920x1080](purple%20planet%20atmosphere%201920x1080.jpg) |
+| purple sunset 1500x500 | purple sunset 1920x1200 |
+| ![purple sunset 1500x500](purple%20sunset%201500x500.jpg) | ![purple sunset 1920x1200](purple%20sunset%201920x1200.png) |
+| pyro hunt down the freeman 1440x810 | robot (maybe walle) holding a pink flower and observing it 3840x2160 |
+| ![pyro hunt down the freeman 1440x810](pyro%20hunt%20down%20the%20freeman%201440x810.png) | ![robot (maybe walle) holding a pink flower and observing it 3840x2160](robot%20(maybe%20walle)%20holding%20a%20pink%20flower%20and%20observing%20it%203840x2160.jpg) |
 | skelly 2732x1536 | skull enjoying freedom 1207x679 |
 | ![skelly 2732x1536](skelly%202732x1536.png) | ![skull enjoying freedom 1207x679](skull%20enjoying%20freedom%201207x679.png) |
 | smile pattern 10630x4724 | staring into the woods 6656×3840 |
