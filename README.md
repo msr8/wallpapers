@@ -58,12 +58,14 @@
 | ![joseph seed dlc 3840x2160](joseph%20seed%20dlc%203840x2160.png) | ![joseph seed in church 1200x675](joseph%20seed%20in%20church%201200x675.jpg) |
 | joseph seed pink 1920x1080 | kali linox 1920x1080 |
 | ![joseph seed pink 1920x1080](joseph%20seed%20pink%201920x1080.jpg) | ![kali linox 1920x1080](kali%20linox%201920x1080.jpg) |
-| kitty happy 2566x1440 | kitty looking up at you (edited) 1920x1080 |
-| ![kitty happy 2566x1440](kitty%20happy%202566x1440.png) | ![kitty looking up at you (edited) 1920x1080](kitty%20looking%20up%20at%20you%20(edited)%201920x1080.png) |
-| kitty looking up at you 1920x1080 | kitty minimal 1920x1080 |
-| ![kitty looking up at you 1920x1080](kitty%20looking%20up%20at%20you%201920x1080.png) | ![kitty minimal 1920x1080](kitty%20minimal%201920x1080.png) |
-| kitty minimal monotone 1920x1080 | kitty waiting for something to happen? 736x1472 |
-| ![kitty minimal monotone 1920x1080](kitty%20minimal%20monotone%201920x1080.png) | ![kitty waiting for something to happen? 736x1472](kitty%20waiting%20for%20something%20to%20happen?%20736x1472.png) |
+| kitties staring at you upscaler.com 400 2304 4096 | kitty happy 2566x1440 |
+| ![kitties staring at you upscaler.com 400 2304 4096](kitties%20staring%20at%20you%20upscaler.com%20400%202304%204096.jpg) | ![kitty happy 2566x1440](kitty%20happy%202566x1440.png) |
+| kitty looking up at you (edited) 1920x1080 | kitty looking up at you 1920x1080 |
+| ![kitty looking up at you (edited) 1920x1080](kitty%20looking%20up%20at%20you%20(edited)%201920x1080.png) | ![kitty looking up at you 1920x1080](kitty%20looking%20up%20at%20you%201920x1080.png) |
+| kitty minimal 1920x1080 | kitty minimal monotone 1920x1080 |
+| ![kitty minimal 1920x1080](kitty%20minimal%201920x1080.png) | ![kitty minimal monotone 1920x1080](kitty%20minimal%20monotone%201920x1080.png) |
+| kitty waiting for something to happen 736x1472 | kitty waiting for something to happen imgupscaler.com 400 2048x4096 |
+| ![kitty waiting for something to happen 736x1472](kitty%20waiting%20for%20something%20to%20happen%20736x1472.png) | ![kitty waiting for something to happen imgupscaler.com 400 2048x4096](kitty%20waiting%20for%20something%20to%20happen%20imgupscaler.com%20400%202048x4096.png) |
 | kurtzberg style blackhole 3840x2160 | limitedlife light of the server by u-kazehita 2367x3455 |
 | ![kurtzberg style blackhole 3840x2160](kurtzberg%20style%20blackhole%203840x2160.png) | ![limitedlife light of the server by u-kazehita 2367x3455](limitedlife%20light%20of%20the%20server%20by%20u-kazehita%202367x3455.png) |
 | linux 2560x1440 | linux2 3840x2160 |
