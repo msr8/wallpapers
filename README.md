@@ -24,6 +24,8 @@
 | ![colorful astronaut 2560x1440](colorful%20astronaut%202560x1440.jpg) | ![colorful square 3840x2160](colorful%20square%203840x2160.png) |
 | colors 1920x1080 | cyberpunk edgerunners sasha 3840x2160 |
 | ![colors 1920x1080](colors%201920x1080.png) | ![cyberpunk edgerunners sasha 3840x2160](cyberpunk%20edgerunners%20sasha%203840x2160.jpg) |
+| daredevil 1 2305x4096 | daredevil 2 1080x1920 |
+| ![daredevil 1 2305x4096](daredevil%201%202305x4096.jpg) | ![daredevil 2 1080x1920](daredevil%202%201080x1920.jpg) |
 | deer 3840x2160 | demon girl 1366x768 |
 | ![deer 3840x2160](deer%203840x2160.png) | ![demon girl 1366x768](demon%20girl%201366x768.jpeg) |
 | demon girl 1920x1080 | demon girl monotone 1920x1080 |
@@ -70,8 +72,10 @@
 | ![kurtzberg style blackhole 3840x2160](kurtzberg%20style%20blackhole%203840x2160.png) | ![limitedlife light of the server by u-kazehita 2367x3455](limitedlife%20light%20of%20the%20server%20by%20u-kazehita%202367x3455.png) |
 | linux 2560x1440 | linux2 3840x2160 |
 | ![linux 2560x1440](linux%202560x1440.png) | ![linux2 3840x2160](linux2%203840x2160.png) |
-| lofi girl 2345x1286 | minecraft nether aesthetic 3840x2160 |
-| ![lofi girl 2345x1286](lofi%20girl%202345x1286.png) | ![minecraft nether aesthetic 3840x2160](minecraft%20nether%20aesthetic%203840x2160.jpg) |
+| lofi girl 2345x1286 | michelangelo secret program 1920x1080 |
+| ![lofi girl 2345x1286](lofi%20girl%202345x1286.png) | ![michelangelo secret program 1920x1080](michelangelo%20secret%20program%201920x1080.jpg) |
+| michelangelo secret program 2560x1279 | minecraft nether aesthetic 3840x2160 |
+| ![michelangelo secret program 2560x1279](michelangelo%20secret%20program%202560x1279.jpg) | ![minecraft nether aesthetic 3840x2160](minecraft%20nether%20aesthetic%203840x2160.jpg) |
 | minimal black planet 7680x4320 | minimal planet 2560x1600 |
 | ![minimal black planet 7680x4320](minimal%20black%20planet%207680x4320.jpg) | ![minimal planet 2560x1600](minimal%20planet%202560x1600.png) |
 | minimal planets 2560x1600 | minimal planets brown 2560x1600 |
